@@ -1,5 +1,7 @@
 # Why?
-This is an effective re-write of the GDS post/repo using bash on binary data.
+This is an effective re-write of the GDS post/repo by Rory McNamara using bash on binary data to
+do process hooking. The original repo can be found here: https://github.com/AonCyberLabs/Cexigua/
+
 I was curious about this for a few reasons:
 - I had never done process hooking before.
 - I have never directly overwritten the stack before.

@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright (c) 2017 Rory McNamara
+# Copyright (c) 2017 Rory McNamara. Modified under GPL v2.0 by vr0n
 
 # Check that the TARGET is defined
 if [ -z "${1}" ]; then
